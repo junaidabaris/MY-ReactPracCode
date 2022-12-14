@@ -1,0 +1,15 @@
+.main-box{
+    border: 1px solid black;
+    width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+}
+.main-box > div{
+    width: 50%;
+    border: 1px solid black;
+    padding: 20px;
+}
+.main-box > div > div > button {
+    display: block;
+    margin: 20px 0;
+}

@@ -1,0 +1,7 @@
+.productPage{
+    display: flex;
+}
+.productPage > div {
+    margin: 20px 10px;
+    background-color: aqua;
+}

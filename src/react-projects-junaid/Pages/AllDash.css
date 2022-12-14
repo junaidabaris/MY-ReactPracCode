@@ -1,0 +1,52 @@
+.Dashbord{
+    width: 950px;
+    margin: 100px auto;
+    padding: 20px;
+    display: flex;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.DashCompRight{
+    border-radius: 5px;
+    box-shadow: 0 0 1.5px;
+    justify-content: space-between;
+    position: relative;
+    padding: 5px 10px;
+    margin: 20px 0;
+}
+.DashCompRight > div > .btn{
+    height: fit-content;
+    margin: 20px 0;
+    position: absolute;
+    top: 0;
+    right: 10px;
+    font-size: larger;
+    border-radius: 100%;
+    border: none;
+    width: 40px;
+    height: 40px;
+    color: #4b145b ;
+    background-color: #faebf0;
+}
+.right{
+    margin-left: 40px;
+    width: 100%;
+}
+.content{
+    display: block;
+}
+.hide{
+    display: none;
+}
+.back-color{
+    background-color: #4b145b;
+    height: 918px;
+}
+.DashCompLeft h1{
+    font-weight: 500;
+    width: 70%;
+}
+.back-color h3 a{
+    color: white;
+}

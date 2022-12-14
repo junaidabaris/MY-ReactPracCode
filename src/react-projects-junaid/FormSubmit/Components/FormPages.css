@@ -1,0 +1,20 @@
+form{
+    width: 400px;
+    border: 1px solid black;
+    padding: 40px 30px;
+    background-color: white;
+    margin:3px 20px;
+}
+form input {
+    padding: 10px;
+    margin: 10px 4px ;
+}
+form label{
+    font-size: larger;
+}
+form input::-webkit-input-placeholder{
+    font-size: larger;
+}
+form h3{
+    margin-top: 0;
+}

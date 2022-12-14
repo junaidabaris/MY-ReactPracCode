@@ -1,0 +1,11 @@
+.item-box{
+    padding: 15px;
+    border-radius: 5px;
+    width:calc(50% - 52px);
+    margin: 10px;
+    background-color: white;
+}
+.News-set{
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,22 @@
+.product{
+    border: 1px solid black;
+    width: 500px;
+    text-align: center;
+}
+.table{
+    margin: auto;
+    width: 180px;
+}
+tr,td{
+    padding: 10px;
+}
+.img img{
+    width: 150px;
+    height: 120px;
+}
+.imgsec{
+    margin-top: 20px !important;
+    display: flex;
+    width: 200px;
+    margin: auto;
+}

@@ -1,0 +1,40 @@
+.main-section{
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+.main-section h1{
+    margin-bottom: 60px;
+}
+
+.items{
+    /* border: 1px solid black; */
+    margin: 50px auto;
+    width: 60%;
+}
+.img-section img{
+    width: 100%;
+    object-fit:cover ;
+    height: 400px;
+}
+.text-section{
+    padding: 25px;
+    background-color: white;
+}
+.flex-div{
+    display: flex;
+    justify-content: space-between;
+}
+.flex-div span{
+    margin: 18px 0;
+}
+.text-section button{
+    padding: 10px;
+    background-color: lightcoral;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+.text-section p{
+    text-align: left;
+}

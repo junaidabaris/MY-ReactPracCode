@@ -1,0 +1,33 @@
+.main-wrapper{
+    border: 1px solid black;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: aquamarine;
+}
+.main-wrapper button{
+    width: 100%;
+    padding: 10px;
+    background-color: palevioletred;
+    border-radius: 5px;
+    color: white;
+    font-size: larger;
+    border: none;
+}
+.box-section{
+    border: 1px solid black;
+    width: 70px;
+    height: 70px;
+    background-color: white;
+    margin-right: 40px;
+}
+.item-set{
+    display: flex;
+    margin: 20px 0;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: aqua;
+    font-size: 18px;
+}

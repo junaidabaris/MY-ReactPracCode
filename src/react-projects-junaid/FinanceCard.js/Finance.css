@@ -1,0 +1,29 @@
+.DropDown{
+    display: grid;
+}
+.DropDown a{
+    margin: 10px 0;
+}
+.boxFix{
+    border: 1px solid black;
+    width: 750px;
+    height: 500px;
+    margin: auto;
+    padding: 20px;
+}
+tr,td,th{
+    border: 1px solid black;
+    padding: 5px;
+}
+.boxFix a{
+    margin: 0 10px;
+}
+.outlet{
+    border: 1px solid black;
+    padding: 10px;
+    height: 230px;
+}
+.table{ 
+    display: flex;
+    justify-content: space-around;
+}

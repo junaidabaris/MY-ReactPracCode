@@ -1,0 +1,18 @@
+.mainsection{
+    width: 600px;
+    margin: auto;
+    height: 200px;
+    border: 1px solid black;
+}
+.mainsection .navBar{
+    padding: 20px;
+    border-bottom: 1px solid black;
+    justify-content: end;
+    display: flex;
+}
+.mainsection .dashbord{
+    padding: 10px;
+    border: 1px solid black;
+    margin:20px auto;
+    width: 50%;
+}

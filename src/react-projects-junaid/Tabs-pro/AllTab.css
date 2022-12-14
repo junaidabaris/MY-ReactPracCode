@@ -1,0 +1,43 @@
+.Experience{
+    /* border: 1px solid black; */
+    width: 1000px;
+    margin: 70px auto;
+}
+.Experience h1{
+    text-align: center;
+}
+.detail-comp{
+    display: flex;
+}
+.company-sec{
+    margin: 10px 50px ;
+}
+.Detail-sec{
+    margin: 10px 50px;
+}
+.company-sec{
+    display: block;
+}
+.company-sec > div{
+    margin: 10px 0;
+}
+.company-sec >div >button{
+    padding: 15px;
+    width: 150px;
+    font-size: 17px;
+    border: none;
+    background-color: transparent;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-color: transparent;
+}
+.company-sec >div >button:hover{
+    border-left: 2px solid rgb(109, 175, 197);
+    color: rgb(109, 175, 197);
+    transition: all 0.5s;
+}
+hr{
+    background-color: rgb(109, 175, 197);
+    width: 100px;
+    height: 5px;
+}

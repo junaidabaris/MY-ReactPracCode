@@ -1,0 +1,27 @@
+.leftBar{
+    width: 230px;
+    height: 800px;
+    padding: 20px;
+}
+.leftBar > h3{
+    margin: 10px;
+}
+.rigthComp{
+    width: 1000px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.rigthComp > .card{
+    margin: 15px;
+}
+.rigthComp > .card img{
+    height: 150px;
+    object-fit: contain;
+}
+.heading{
+    margin: 0 40px ;
+}
+.modal-content{
+    padding: 30px;
+}

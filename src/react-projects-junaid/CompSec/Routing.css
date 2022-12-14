@@ -1,0 +1,66 @@
+.navigation{
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+
+}
+.navigation a{
+    margin: 5px 10px;
+    padding: 15px;
+    font-size: larger;
+    text-decoration: none;
+    font-family:cursive;
+    border-radius: 6px;
+    letter-spacing: 6px;
+}
+.navigation a:hover{
+    background-color: rgb(20, 96, 96);
+    color: aliceblue;
+    font-weight:600;
+    transition: all 0.3s;
+}
+footer{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    background-color: lightgreen;
+}
+.footer{
+    width: 1000px;
+    margin: auto;
+    padding: 50px;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.footer ul{
+    padding: 0;
+    padding-right: 10px;
+}
+.footer ul li{
+    list-style: none;
+    font-size: 20px;
+    padding: 5px 0;
+}
+.footer ul li a{
+    text-decoration: none;
+}
+.Home button{
+    padding: 10px 15px;
+    background-color:cadetblue;
+    font-size: larger;
+    border: none;
+    border-radius: 4px;
+    color: white;
+}
+.Home{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+}
+.Products{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}

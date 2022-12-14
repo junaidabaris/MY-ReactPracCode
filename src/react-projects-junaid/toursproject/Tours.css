@@ -1,0 +1,36 @@
+.Print-box{
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+.items{
+    /* border: 1px solid black; */
+    margin: 50px auto;
+    width: 50%;
+}
+.img-section img{
+    width: 100%;
+    object-fit:cover ;
+    height: 400px;
+}
+.text-section{
+    padding: 25px;
+    background-color: white;
+}
+.flex-div{
+    display: flex;
+    justify-content: space-between;
+}
+.flex-div span{
+    margin: 18px 0;
+}
+.text-section button{
+    padding: 10px;
+    background-color: lightcoral;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+.text-section p{
+    text-align: left;
+}

@@ -1,0 +1,17 @@
+.div-box{
+    border: 1px solid black;
+    width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    display: flex;
+}
+
+.div-box > div{
+    width: 50%;
+    border: 1px solid black;
+    padding: 20px;
+}
+.div-box > div > div > button {
+    display: block;
+    margin: 20px 0;
+}

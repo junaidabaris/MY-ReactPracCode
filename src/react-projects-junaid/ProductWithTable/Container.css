@@ -1,0 +1,17 @@
+#root {
+    width: 100%;
+}
+
+.navBar>div {
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 0 5px;
+    border-radius: 10px;
+}
+
+.navBar>div>a {
+    border-radius: 10px;
+    font-size: larger;
+    color: black;
+
+}
