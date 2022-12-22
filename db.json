@@ -1,4 +1,16 @@
 {
+  "students": {
+    "name": "admin",
+    "password": "admin",
+    "isLogin": true
+  },
+  "contactList": [
+    {
+      "id": 0.4649314153536932,
+      "email": "admin@gmail.com",
+      "name": "junaidddd"
+    }
+  ],
   "contact": [
     {
       "id": 1,
